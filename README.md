@@ -1,4 +1,7 @@
-### Hi I'm Zouhair ET-TARAK  👋
+
+<h1 align='center'>
+     👋  I'm Zouhair ET-TARAK Nice to meet you
+</h1>
 
 
 <code><a href="https://github.com/dotnet/core" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></a></code>
