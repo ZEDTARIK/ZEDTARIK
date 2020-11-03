@@ -5,7 +5,8 @@
 
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
 <code><a href="https://nodejs.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></a></code>
-<code><a href="https://Angumar.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"></a></code>
+<code><a href="https://Angular.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"></a></code>
+<code><a href="https://cloud.mongodb.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
 <code><a href="https://github.com/dotnet/core" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></a></code>
 <code><a href="https://microservices.io/" target="_blank"><img height="50" src="https://comunytek.com/wp-content/uploads/2017/03/Microservices.png"></a></code>
 
