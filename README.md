@@ -1,6 +1,6 @@
 
 <h1 align='center'>
-     👋  I'm Zouhair ET-TARAK  Developper Full Stack
+     👋  Zouhair ET-TARAK  - Developper Full Stack
 </h1>
 
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
@@ -36,4 +36,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...Anything about Angular or Laravel
 - 📫 How to reach me: ... [https://www.linkedin.com/in/et-tarak-zouhair-3a456564/]
 - ⚡ Fun fact: ... 
-https://www.vectorlogo.zone/util/preview.html?image=/logos/python/python-horizontal.svg
