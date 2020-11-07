@@ -15,7 +15,7 @@
 <code><a href="https://python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></a></code>
 
 <center>
-  <table>
+  <table class="table table-hover">
   <tr>
       <td>
         <img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=ZEDTARIK" />
