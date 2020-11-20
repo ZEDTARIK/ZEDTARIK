@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ... Youtube and Freelance
 - 🌱 I’m currently learning ... MERN Stack
 - 🤔 I’m looking for help with ...MERN && Net Core
-- 💬 Ask me about ...Anything about Angular or Laravel
+- 💬 Ask me about ...Anything about Angular version >=5  or Laravel
 - 📫 How to reach me: ... [https://www.linkedin.com/in/et-tarak-zouhair-3a456564/]
 - ⚡ Fun fact: ... 
