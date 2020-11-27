@@ -12,6 +12,7 @@
 <code><a href="https://heroku.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></a></code>
 <code><a href="https://python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></a></code>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
+<code><a href="https://www.json.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/json/json-horizontal.svg"></a></code>
 <center>
   <table class="table table-hover">
   <tr>
