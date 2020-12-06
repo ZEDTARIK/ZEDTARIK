@@ -25,16 +25,6 @@
 </table>
 </center>
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... Youtube and Freelance
-- 🌱 I’m currently learning ... MERN Stack
-- 🤔 I’m looking for help with ...MERN && Net Core
-- 💬 Ask me about ...Anything about Angular version >=5  or Laravel 6 and 7
-- 📫 How to reach me: ... [https://www.linkedin.com/in/et-tarak-zouhair-3a456564/]
-
-
 ### 👨‍💻 Languages and Tools
 
 <img align="left" alt="HTML5" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -56,3 +46,14 @@ Here are some ideas to get you started:
 
 <br />
 <br />
+
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ... Youtube and Freelance
+- 🌱 I’m currently learning ... MERN Stack
+- 🤔 I’m looking for help with ...MERN && Net Core
+- 💬 Ask me about ...Anything about Angular version >=5  or Laravel 6 and 7
+- 📫 How to reach me: ... [https://www.linkedin.com/in/et-tarak-zouhair-3a456564/]
+
+
