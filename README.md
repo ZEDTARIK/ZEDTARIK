@@ -5,10 +5,10 @@
 <code><a href="https://nodejs.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></a></code>
 <code><a href="https://Angular.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"></a></code>
 <code><a href="https://cloud.mongodb.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
-<code><a href="https://firebase.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></a></code>
 <code><a href="https://laravel.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></a></code>
 <code><a href="https://heroku.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></a></code>
 <code><a href="https://python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></a></code>
+<code><a href="https://firebase.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></a></code>
 <center>
   <table class="table table-hover">
   <tr>
@@ -30,7 +30,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Youtube and Freelance
+- 🔭 I’m currently working on ... Youtube and Freelance,Progressive skills 
 - 🌱 I’m currently learning ... MERN Stack
 - 🤔 I’m looking for help with ...MERN && Net Core
 - 💬 Ask me about ...Anything about Angular version >=5  or Laravel 6 and 7
