@@ -2,8 +2,8 @@
 <h1 align='center'>
      👋  Zouhair ET-TARAK  - Developper Full Stack
 </h1>
-<code><a href="https://nodejs.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></a></code>
 <code><a href="https://Angular.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"></a></code>
+<code><a href="https://nodejs.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></a></code>
 <code><a href="https://cloud.mongodb.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
 <code><a href="https://laravel.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></a></code>
 <code><a href="https://heroku.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></a></code>
