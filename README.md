@@ -9,6 +9,7 @@
 <code><a href="https://heroku.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></a></code>
 <code><a href="https://python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></a></code>
 <code><a href="https://firebase.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></a></code>
+<code><a href="https://vuejs.org/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"></a></code>
 <center>
   <table class="table table-hover">
   <tr>
