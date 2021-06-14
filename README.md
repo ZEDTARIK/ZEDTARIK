@@ -1,6 +1,6 @@
 
 <h1 align='center'>
-     👋  Developper Full Stack : Zouhair ET-TARAk
+     👋  Developper Full Stack  Zouhair ET-TARAk
 </h1>
 <code><a href="https://laravel.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></a></code>
 <code><a href="https://vuejs.org/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"></a></code>
