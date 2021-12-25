@@ -31,9 +31,9 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Youtube and Freelance,Progressive skills 
-- 🌱 I’m currently learning ... Laravel With VueJs
-- 🤔 I’m looking for help with ...MERN && Net Core
-- 💬 Ask me about ...Anything about Angular version >=5  or Laravel 6 and 7
+- 🌱 I’m currently learning ... Spring Boot With Angular Or VueJS
+- 🤔 I’m looking for help with ...Full Stack
+- 💬 Ask me about ...Anything about Angularor VueJS && JAVA OR .NET 
 - 📫 How to reach me: ... [https://www.linkedin.com/in/et-tarak-zouhair-3a456564/]
 
 
