@@ -11,7 +11,7 @@
 <code><a href="https://firebase.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></a></code>
 <code><a href="https://cloud.mongodb.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
 <center>
-  <table class="table table-hover">
+  <table class="table table-hover table-sm">
   <tr>
       <td>
         <img width="547px" align="left" src="https://github-readme-stats.vercel.app/api?username=ZEDTARIK" />
