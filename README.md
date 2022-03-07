@@ -1,6 +1,6 @@
 
-<h1 align='center' style="color: red;">
-       Zouhair ET-TARAk   👋  Developper Full Stack 
+<h1 align='center'>
+       Zouhair ET-TARAk   👋   Developper Full Stack 
 </h1>
 <code><a href="https://nodejs.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></a></code>
 <code><a href="https://Angular.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"></a></code>
