@@ -14,7 +14,7 @@
   <table class="table table-hover table-sm">
   <tr>
       <td>
-        <img width="547px" align="left" src="https://github-readme-stats.vercel.app/api?username=ZEDTARIK" />
+        <img width="54p9x" align="left" src="https://github-readme-stats.vercel.app/api?username=ZEDTARIK" />
       </td>
       <td>
           <img width="550px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZEDTARIK&hide=html&layout=compact" />
